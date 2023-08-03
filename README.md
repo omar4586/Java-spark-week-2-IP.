@@ -12,7 +12,7 @@ Allow users to assign Heroes to a Squad. Each hero can only participate in one S
 You could even calculate scores for a specific skill area for your squad (defense, distance attacks, etc), or begin to integrate a turn-based battle system. Get creative! This could be the start of a fun portfolio piece!
 
 ## Go-live link
-https://phenic00.github.io/java-spark2-ip/
+https://github.com/omar4586/Java-spark-week-2-IP..git
 ## Known Bugs
 
 There are no known bugs on this projects.
